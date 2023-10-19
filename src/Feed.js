@@ -78,24 +78,23 @@ function Feed() {
           <video className="video-to-play" onClick={onScreenPause}>
             <source src="/simple-video.mp4" type="video/mp4"/>
           </video>
-
         </div>
 
         <div className='footer'>
           <div style={{ color: "white" }}>
-              <img src="/home-icon.svg" width="20px" height="20px" />
+            <img src="/home-icon.svg" width="20px" height="20px" />
           </div>
           <div style={{ color: "white" }}>
-              <img src="/safari-icon.svg" width="20px" height="20px" />
+            <img src="/safari-icon.svg" width="20px" height="20px" />
           </div>
           <div style={{ color: "white" }}>
-              <img src="/tiktok-upload-video-icon.png" width="40px" height="20px" />
+            <img src="/tiktok-upload-video-icon.svg" width="40px" height="40px" />
           </div>
           <div style={{ color: "white" }}>
-              <img src="/message-minus-icon.svg" width="20px" height="20px" />
+            <img src="/message-minus-icon.svg" width="20px" height="20px" />
           </div>
           <div style={{ color: "white" }}>
-              <img src="/profile-icon.svg" width="20px" height="20px" />
+            <img src="/profile-icon.svg" width="20px" height="20px" />
           </div>
         </div>
 
